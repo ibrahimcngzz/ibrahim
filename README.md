@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ibrahimcngzz
+- 👀 I’m  interested in matlab python
+- 🌱 I’m currently learning matlab python
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ibrahimcengiz2000@hotmail.com
+-        I am a mechatronics engineering student.
